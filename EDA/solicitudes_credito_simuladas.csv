@@ -1,0 +1,101 @@
+id,edad,ingresos_mensuales,region,es_cliente,score_crediticio,justificacion,decision_final
+1,61,1733912,Bogotá,1,525,Vacaciones familiares,RECHAZADO
+2,68,1659791,Santander,0,702,Pago de deudas,APROBADO
+3,22,1585972,Antioquia,0,658,Eventos especiales,APROBADO
+4,56,2467971,Santander,1,512,Compra de vehículo,APROBADO
+5,21,2139319,Cundinamarca,1,542,Viaje a Europa,RECHAZADO
+6,69,3623559,Bogotá,0,594,Compra de electrodomésticos,APROBADO
+7,43,3018961,Bogotá,1,674,Compra de electrodomésticos,RECHAZADO
+8,26,3259357,Santander,1,695,Vacaciones familiares,RECHAZADO
+9,23,2711749,Valle,0,519,Compra de electrodomésticos,APROBADO
+10,38,4603481,Valle,0,589,Inversión en negocio propio,RECHAZADO
+11,63,3039572,Bogotá,0,673,Vacaciones familiares,RECHAZADO
+12,50,3983102,Valle,0,750,Inversión en negocio propio,APROBADO
+13,35,1069276,Valle,1,537,Compra de electrodomésticos,RECHAZADO
+14,57,3439709,Antioquia,1,602,Compra de vehículo,APROBADO
+15,37,1971304,Antioquia,1,699,Pago de deudas,RECHAZADO
+16,44,2639795,Antioquia,1,446,Pago de estudios de posgrado,RECHAZADO
+17,30,2142026,Cundinamarca,0,597,Pago de deudas,APROBADO
+18,54,2909014,Santander,0,748,Compra de electrodomésticos,RECHAZADO
+19,70,3653598,Bogotá,1,622,Viaje a Europa,APROBADO
+20,21,3009467,Santander,0,659,Compra de electrodomésticos,RECHAZADO
+21,61,2468587,Antioquia,1,482,Tratamiento médico,RECHAZADO
+22,59,3519218,Cundinamarca,0,457,Inversión en negocio propio,APROBADO
+23,36,1285911,Antioquia,0,443,Compra de vehículo,RECHAZADO
+24,69,1854955,Antioquia,1,681,Viaje a Europa,APROBADO
+25,54,4349538,Antioquia,0,559,Pago de deudas,APROBADO
+26,49,4587340,Bogotá,0,515,Compra de electrodomésticos,APROBADO
+27,22,2730342,Santander,0,403,Compra de electrodomésticos,RECHAZADO
+28,35,1365394,Bogotá,1,436,Tratamiento médico,RECHAZADO
+29,38,4871951,Antioquia,0,692,Eventos especiales,RECHAZADO
+30,36,4767584,Cundinamarca,0,448,Compra de electrodomésticos,APROBADO
+31,43,4353235,Cundinamarca,1,427,Compra de electrodomésticos,RECHAZADO
+32,46,3646276,Bogotá,0,498,Vacaciones familiares,APROBADO
+33,29,4338999,Antioquia,1,636,Vacaciones familiares,RECHAZADO
+34,49,1621317,Bogotá,0,447,Vacaciones familiares,RECHAZADO
+35,47,4873853,Cundinamarca,0,605,Pago de estudios de posgrado,APROBADO
+36,45,818080,Cundinamarca,1,632,Reparación de vivienda,RECHAZADO
+37,65,4882495,Antioquia,0,551,Vacaciones familiares,RECHAZADO
+38,58,1311349,Valle,0,425,Eventos especiales,APROBADO
+39,53,2120641,Bogotá,0,495,Compra de electrodomésticos,RECHAZADO
+40,64,2773033,Cundinamarca,0,691,Vacaciones familiares,RECHAZADO
+41,60,1487726,Cundinamarca,1,533,Vacaciones familiares,APROBADO
+42,36,3028136,Cundinamarca,0,743,Reparación de vivienda,RECHAZADO
+43,41,1408535,Bogotá,1,718,Eventos especiales,APROBADO
+44,25,2588067,Santander,1,467,Inversión en negocio propio,RECHAZADO
+45,36,3899817,Valle,0,624,Tratamiento médico,RECHAZADO
+46,60,865624,Santander,1,739,Compra de electrodomésticos,APROBADO
+47,37,1768285,Bogotá,0,539,Reparación de vivienda,RECHAZADO
+48,66,3676288,Antioquia,1,658,Compra de vehículo,RECHAZADO
+49,24,1574255,Cundinamarca,1,422,Pago de estudios de posgrado,APROBADO
+50,70,1897394,Valle,0,626,Tratamiento médico,RECHAZADO
+51,56,881115,Bogotá,0,476,Tratamiento médico,RECHAZADO
+52,44,2042300,Cundinamarca,0,421,Reparación de vivienda,APROBADO
+53,23,3801521,Antioquia,0,741,Compra de electrodomésticos,RECHAZADO
+54,70,4208940,Santander,0,521,Viaje a Europa,RECHAZADO
+55,47,1007923,Antioquia,1,610,Vacaciones familiares,APROBADO
+56,31,1706771,Cundinamarca,0,640,Vacaciones familiares,RECHAZADO
+57,50,3733147,Valle,0,514,Pago de estudios de posgrado,RECHAZADO
+58,46,3553660,Valle,0,542,Inversión en negocio propio,APROBADO
+59,64,3577886,Bogotá,0,533,Viaje a Europa,APROBADO
+60,23,1709346,Santander,1,576,Inversión en negocio propio,APROBADO
+61,59,1770107,Cundinamarca,0,530,Pago de estudios de posgrado,APROBADO
+62,21,2452850,Valle,1,435,Inversión en negocio propio,APROBADO
+63,63,1845432,Valle,1,741,Pago de deudas,RECHAZADO
+64,46,3280135,Santander,0,498,Pago de deudas,APROBADO
+65,64,2259847,Santander,1,607,Tratamiento médico,APROBADO
+66,40,3206806,Antioquia,1,696,Eventos especiales,RECHAZADO
+67,50,4505969,Cundinamarca,0,661,Compra de vehículo,APROBADO
+68,63,1511316,Valle,1,447,Vacaciones familiares,APROBADO
+69,35,2470422,Antioquia,0,423,Vacaciones familiares,APROBADO
+70,60,1410927,Cundinamarca,1,722,Eventos especiales,APROBADO
+71,66,4021044,Cundinamarca,1,524,Viaje a Europa,RECHAZADO
+72,69,1694119,Cundinamarca,0,490,Tratamiento médico,APROBADO
+73,24,2890426,Bogotá,1,468,Compra de vehículo,APROBADO
+74,69,4512574,Santander,1,680,Compra de vehículo,APROBADO
+75,68,4781857,Cundinamarca,1,526,Reparación de vivienda,APROBADO
+76,61,2806939,Valle,1,439,Reparación de vivienda,RECHAZADO
+77,38,3617293,Valle,0,470,Viaje a Europa,RECHAZADO
+78,45,2081823,Antioquia,0,612,Pago de deudas,RECHAZADO
+79,55,4708456,Cundinamarca,0,505,Pago de deudas,APROBADO
+80,70,963845,Santander,1,644,Pago de estudios de posgrado,RECHAZADO
+81,40,4071445,Cundinamarca,0,649,Vacaciones familiares,APROBADO
+82,48,4873860,Bogotá,1,572,Pago de deudas,RECHAZADO
+83,50,1870619,Santander,0,601,Eventos especiales,APROBADO
+84,26,4395464,Antioquia,1,493,Pago de estudios de posgrado,APROBADO
+85,45,3546033,Antioquia,1,567,Inversión en negocio propio,APROBADO
+86,38,4336342,Valle,0,640,Pago de estudios de posgrado,APROBADO
+87,43,2680911,Bogotá,0,415,Vacaciones familiares,RECHAZADO
+88,22,2078275,Antioquia,0,642,Compra de electrodomésticos,APROBADO
+89,50,2949527,Valle,0,710,Eventos especiales,APROBADO
+90,70,2173767,Valle,0,696,Pago de estudios de posgrado,RECHAZADO
+91,57,3948302,Cundinamarca,0,438,Eventos especiales,RECHAZADO
+92,27,3329858,Santander,0,689,Pago de estudios de posgrado,RECHAZADO
+93,55,4393495,Valle,0,659,Inversión en negocio propio,APROBADO
+94,47,4912109,Bogotá,1,585,Compra de vehículo,RECHAZADO
+95,48,2277543,Santander,1,715,Tratamiento médico,RECHAZADO
+96,50,4453863,Santander,1,565,Vacaciones familiares,RECHAZADO
+97,38,4581601,Antioquia,1,691,Eventos especiales,RECHAZADO
+98,42,1040753,Cundinamarca,1,493,Compra de vehículo,RECHAZADO
+99,43,2967217,Valle,1,705,Reparación de vivienda,APROBADO
+100,54,2402697,Bogotá,0,608,Compra de vehículo,APROBADO
