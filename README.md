@@ -38,6 +38,7 @@ OPENAI_API_KEY=tu_clave_de_api
 LangGraph te permite representar flujos de decisión con control total sobre la lógica, ideal para sistemas basados en reglas como este. Además, permite escalar fácilmente a múltiples criterios o integrar nueva lógica de negocio.
 
 ## 📌 To Do
- Integración con FastAPI para exponer un endpoint.
- Soporte para historiales de múltiples usuarios.
- Persistencia de decisiones para auditoría.
+## 📌 To Do
+
+- [ ] Integración con FastAPI para exponer un endpoint
+- [x] Validación de edad en flujo LangGraph
