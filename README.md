@@ -28,6 +28,7 @@ source venv/bin/activate  # En Windows: venv\Scripts\activate
 # Instala dependencias
 pip install langchain langgraph langchain-openai python-dotenv
 pip install -U langchain-cli[inmem]
+Nota: Recuerda que puedes usar el requirements.txt, para correr la exploración de datos.
 
 # Crea un archivo .env para tus variables de entorno
 OPENAI_API_KEY=tu_clave_de_api
@@ -37,8 +38,7 @@ OPENAI_API_KEY=tu_clave_de_api
 ## 🧩 ¿Por qué usar LangGraph?
 LangGraph te permite representar flujos de decisión con control total sobre la lógica, ideal para sistemas basados en reglas como este. Además, permite escalar fácilmente a múltiples criterios o integrar nueva lógica de negocio.
 
-## 📌 To Do
-## 📌 To Do
 
+## 📌 To Do
 - [ ] Integración con FastAPI para exponer un endpoint
 - [x] Validación de edad en flujo LangGraph
