@@ -1,0 +1,6 @@
+{
+    "dependencies":["./requirements.txt"],
+    "graphs":{
+        "CreditBot":"./Bot/agents.py:CreditBot"
+    }
+}
